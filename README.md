@@ -1,9 +1,8 @@
-# Google_Data_Analyst
-Complete solution to the Google Data Analyst certification from Coursera
 ## [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 &nbsp;
 
+![cert](google-data-analytics.png)
 
 * This repository written for reference and self-documentation purpose
 * Feel free to contribute!
