@@ -7,9 +7,9 @@
 Which spreadsheet menu function is used to sort all data in a spreadsheet by the ranking of a specific sorted column?
 
 * Sort Data
-* **Sort By Rank**
+* Sort By Rank
 * Sort Range 
-* Sort Sheet 
+* **Sort Sheet**
 
 > Sort Sheet is used to sort all data in a spreadsheet by the ranking of a specific sorted column.
 
