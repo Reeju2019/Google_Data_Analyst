@@ -19,8 +19,8 @@ A new challenge from a competitor, an inefficient process that needs to be impro
 
 Fill in the blank: When designing a presentation, a slideshow tool called _____ can be used to control the color, font types and sizes, formating, and positioning of text and visuals. 
 
-* themes
-* **patterns**
+* **themes**
+* patterns
 * schemes
 * motives
 
