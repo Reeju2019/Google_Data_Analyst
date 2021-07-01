@@ -6,7 +6,7 @@
 
 Which of the following is an example of a business task? Select all that apply.
 
-* Comparing in-person and online clothing purchasing trends to make stocking decisions
+* **Comparing in-person and online clothing purchasing trends to make stocking decisions**
 * Theorizing that the amount of coffee purchased per day increases in the summer
 * **Finding relationships between weather patterns and economic activity**
 * **Identifying a company’s most productive manufacturing plants**
@@ -33,7 +33,7 @@ A supervisor asks a junior data analyst to present two hypotheses regarding a da
 Which of the following is an example of an initial hypothesis? Select all that apply.
 
 * **A company’s manufacturing plant had lower output in the past month**
-* A relationship between the holiday season and increased traffic congestion
+* **A relationship between the holiday season and increased traffic congestion**
 * **An increase in wildlife presence coincides with unusual annual rainfall**
 * Annual revenue shows a trend that online purchases have increased in the past year
 
