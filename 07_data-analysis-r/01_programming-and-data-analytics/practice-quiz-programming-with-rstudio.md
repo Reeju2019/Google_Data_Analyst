@@ -22,7 +22,7 @@ RStudio includes which of the following panes? Select all that apply.
 * **Environment pane** 
 * **Source editor pane**
 * Command pane
-* R console pane
+* **R console pane**
 
 > RStudio includes an R console pane for executing commands, a source editor pane for writing code, and an environment pane for managing loaded data. RStudio does not include a Command pane. 
 
@@ -32,7 +32,7 @@ RStudio includes which of the following panes? Select all that apply.
 
 If you write code directly in the R console, RStudio will automatically save your code when you close your current session.
 
-* True
-* **False**
+* **True**
+* False
 
 > If you write code directly in the R console, RStudio will automatically forget your code when you close your current session. To save your code, use the source editor. 
