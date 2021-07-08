@@ -7,7 +7,7 @@
 Which of the following are best practices for creating data frames? Select all that apply.
 
 * **Columns should be named**
-* Data can be stored as many different types
+* **Data can be stored as many different types**
 * Rows should be named
 * **Each column should contain the same number of data items**
 
